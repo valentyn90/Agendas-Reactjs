@@ -1,7 +1,7 @@
 agendas.
 =======
 
-TC39 meeting agendas
+TC39 meeting agendas.
 <!-- AGENDA_LIST:START (TC39) -->
 <details open>
 <summary>2021</summary>
